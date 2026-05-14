@@ -1,7 +1,7 @@
 # Build on AWS Faster AWS CDK Guide for TypeScript Developers
 
-**Published:** 2025-05-25
-**Medium:** [https://medium.com/@kyle-t-jones/build-on-aws-faster-aws-cdk-guide-for-typescript-developers-6854b5a5d52d](https://medium.com/@kyle-t-jones/build-on-aws-faster-aws-cdk-guide-for-typescript-developers-6854b5a5d52d)
+Published: 2025-05-25
+Medium: [https://medium.com/@kyle-t-jones/build-on-aws-faster-aws-cdk-guide-for-typescript-developers-6854b5a5d52d](https://medium.com/@kyle-t-jones/build-on-aws-faster-aws-cdk-guide-for-typescript-developers-6854b5a5d52d)
 
 ## About
 

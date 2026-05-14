@@ -38,7 +38,7 @@ This is the same foundation I use in training teams. Same stack we start with in
 ### What's Inside the Quick Guide
 The PDF includes:
 
-- **Install Instructions**
+- Install Instructions
 
 ``` 
 npm install -g aws-cdk
@@ -46,7 +46,7 @@ aws configure
 cdk init app --language typescript
 ```
 
-- **A Complete Stack**
+- A Complete Stack
 
 ``` 
 new s3.Bucket(this, 'MyBucket', {
@@ -54,7 +54,7 @@ new s3.Bucket(this, 'MyBucket', {
 });
 ```
 
-- **Deploy Commands**
+- Deploy Commands
 
 ``` 
 cdk synth
@@ -62,8 +62,8 @@ cdk deploy
 cdk destroy
 ```
 
-- **Best Practices**\ Use constructs. Separate environments. Version everything.
-- **Next Steps**\ Add Lambdas. Wire in DynamoDB. Deploy with GitHub Actions.
+- Best Practices\ Use constructs. Separate environments. Version everything.
+- Next Steps\ Add Lambdas. Wire in DynamoDB. Deploy with GitHub Actions.
 
 ### Download the Quick Guide
 I made this quick guide to help devs skip the pain and get straight to real work. It's the fastest way to get started with AWS CDK using TypeScript.
