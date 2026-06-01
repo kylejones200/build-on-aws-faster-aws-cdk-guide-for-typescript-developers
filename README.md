@@ -11,14 +11,7 @@ That's what the AWS Cloud Development Kit (CDK) does. I wrote a book about it fo
 
 This post gives you a free one-page PDF that covers everything you need to start using AWS CDK with TypeScript.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
